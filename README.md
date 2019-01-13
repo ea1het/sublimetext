@@ -1,4 +1,4 @@
-# Sublime Text
+# Sublime Text 3 personalization
 
 ## Anaconda.sublime-settings
 This file is a package condfiguration file. This file configures [Anaconda](http://damnwidget.github.io/anaconda/) package, a Python IDE for Sublime Text. 
