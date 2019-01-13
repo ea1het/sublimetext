@@ -1,0 +1,15 @@
+{
+ "folders":
+ [
+  {
+   "path": "."
+  }
+ ],
+ "virtualenv": "venv",
+ "build_systems": [
+  {
+   "name": "Run app in Virtualenv",
+   "shell_cmd": "venv/bin/python app.py"
+  }
+ ] 
+}
