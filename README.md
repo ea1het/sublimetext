@@ -14,3 +14,6 @@ For this project configuration to work properly you can configure things as expe
   2) Manually create your virtualenvironment using command _'virtualenv -p python3 venv'_.
   3) Activate your virtualenvionrmenton a terminal using command _'source venv/bin/activate'_.
   4) Then, you can start programming and building python code in your virtualenv.
+
+## Virtualenv.sublime-settings 
+This personalization allows you to run code explicitly under a Python3 virtualenv. In order to locate the correct virtualenv to use, Package Control will offer a list of virtualenvs detected automatically as per indication of a base path provided in the configuration options. 
