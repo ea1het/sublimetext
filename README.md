@@ -6,7 +6,7 @@ This is the user-specific configuration settings in Sublime Text 3.
 ## Python3.sublime-build
 This is a generic build configuration file. This allows to run a python file using Python 3 interpreter. 
 
-## untitled.sublime-project
+## untitled.sublime-project [OBSOLETE; check Virtualenv]
 This file is a Sublime Text project configuration file. This allows to work with Python and __virtual environments__. 
 For this project configuration to work properly you can configure things as expected or modify the configuration proposed. 
 
